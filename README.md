@@ -1,4 +1,4 @@
-# My-Course-Projects
+# PHP-Course-Projects
 Project During the course
 Week 6- Guessing Game :-Add the "?guess=[any number]" with the Url to check the guessing number is same ,high , or low
 Week7:- 1..MD5 cracker:-Enter a 4 digit number and find all the possible MD5 code from 0 to that number .
